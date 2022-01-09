@@ -1,0 +1,34 @@
+OK before we understand what CLR is and why we need it.
+
+Let me explain a little bit about the history of C-Sharp before C-sharp.
+
+We had two languages in the C family the C language and C++ with either of these languages.
+
+When we compiled our application the compiler translated our code into the native code for the machine on which it was running.
+
+Which means if I wrote an application in C++ on a Windows machine with 8086 processor architecture the compiler would translate my code into the native code for that machine.
+
+That is a Windows machine with an 8086 processor.
+
+Now we know we have different hardware.
+
+And we have different operating systems.
+
+So if I took an application that compiled the application on the computer with a different architecture that would not run.
+
+So when Microsoft was designing the C-sharp language on the Dot Net framework they came up with an idea that they borrowed from the Java community.
+
+In Java when you compile your code, It's not translated directly into the machine code. It's translated into an intermediate language called bytecode and we have the exact same concept in C-sharp.
+
+So when you compile your C-Sharp code the result is what we call i l or intermediate language code, is independent of the computer on which it's running.
+
+Now we need something that would translate that code into the native code or the machine that is running the application.
+
+And that is the job of CLR (Common Language Runtime) So CLR is essentially an application that is sitting in the memory whose job is to translate the code into the machine code.
+
+And this process is called just in time compiler action or JIT.
+
+So with this architecture you can write an application in C-sharp and you don't have to worry about compiling that into the native code for different machines.
+
+As long as a machine has CLR both can run your application
+

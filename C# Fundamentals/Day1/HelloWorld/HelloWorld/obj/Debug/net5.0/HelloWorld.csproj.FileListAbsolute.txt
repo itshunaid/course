@@ -1,0 +1,16 @@
+E:\C# Fundamentals\Day1\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+E:\C# Fundamentals\Day1\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+E:\C# Fundamentals\Day1\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+E:\C# Fundamentals\Day1\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+E:\C# Fundamentals\Day1\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+E:\C# Fundamentals\Day1\HelloWorld\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+E:\C# Fundamentals\Day1\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+E:\C# Fundamentals\Day1\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.AssemblyReference.cache
+E:\C# Fundamentals\Day1\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Fundamentals\Day1\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+E:\C# Fundamentals\Day1\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+E:\C# Fundamentals\Day1\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+E:\C# Fundamentals\Day1\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+E:\C# Fundamentals\Day1\HelloWorld\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+E:\C# Fundamentals\Day1\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+E:\C# Fundamentals\Day1\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache

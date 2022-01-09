@@ -1,0 +1,8 @@
+E:\C# Fundamentals\Day1\DataType\DataType\bin\Debug\DataType.exe.config
+E:\C# Fundamentals\Day1\DataType\DataType\bin\Debug\DataType.exe
+E:\C# Fundamentals\Day1\DataType\DataType\bin\Debug\DataType.pdb
+E:\C# Fundamentals\Day1\DataType\DataType\obj\Debug\DataType.csproj.AssemblyReference.cache
+E:\C# Fundamentals\Day1\DataType\DataType\obj\Debug\DataType.csproj.SuggestedBindingRedirects.cache
+E:\C# Fundamentals\Day1\DataType\DataType\obj\Debug\DataType.csproj.CoreCompileInputs.cache
+E:\C# Fundamentals\Day1\DataType\DataType\obj\Debug\DataType.exe
+E:\C# Fundamentals\Day1\DataType\DataType\obj\Debug\DataType.pdb

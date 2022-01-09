@@ -1,0 +1,131 @@
+OK, so now we're going to have a quick tour of Visual Studio and build a very simple C-Sharp application.
+
+So here I've got a visual studio open.
+
+Let's go to a file new project.
+
+OK and this dialog on the left side we've got a section called templates and here you see the kind of
+
+applications we can build with C-sharp.
+
+So as you see in the list we can build desktop applications web applications apps for cloud, services workflows and various kind of things.
+
+But for now, we're just going to focus on console applications. A console application is a very simple application that does not have a graphical user interface and it's a great learning tool for learning a new language. So we're not going to be distracted by various complexities of larger applications.
+
+So, Let's select console application then give a name to the project. So let's call it hello world which is a common tradition when learning a new language and specify a location. We can put it wherever you want.
+
+
+
+You have only one solution and one project but as your application grows you can add more projects. Each responsible for something different. Now we don't have to worry about it.
+
+All right let's see what's happening here. Some developers get a little bit intimidated the first time they open Visual Studio and that's fair enough because there are so many menus and panels here that it's a bit confusing. 
+
+But let me tell you something. Ninety percent of the time you're going to use only 10 percent of these or even less. So don't worry about all these menus here. 
+
+You don't need to use all of them at all times. Ninety percent of the time. All you need is the code editor here and sometimes you need the solution explorer.
+
+In fact I personally hardly ever use solution explorer because I do everything with my keyboard.
+
+So you don't need these panels here. You don't need to grab your mouse and navigate around. You don't really need the stuff. Also none of the stuff on the toolbar are ever required. Don't worry about it.
+
+Everything you can do with your keyboard. All right.
+
+Now let's take a look at this first our program so we created a console application and on the right side you see the solution explorer panel in case you don't see that go to view and select solution explorer.
+
+So here you see we have a solution which has only one project I know that we've got the project called HelloWorld.
+
+When you create a project with visual studio by default it has a reference to a bunch of assemblies that you see here these are all part of Dot Net framework.
+
+So at a minimum Visual Studio assumes you're going to use classes in system assembly or system that data to work with databases and so on. You may not necessarily use all these assemblers in your project but that's just part of the template.
+
+You will see program.cs which is where we're going to start writing code.
+
+All right let's see what's happening here.
+
+So in this file program.cs on the top you see a bunch of using statements.
+
+What is this all about. Well our project is called the hello world. So by default visual studio creates a namespace called Hello world when you write code in this namespace we have access to any classes defined in this namespace.
+
+So if we want to use a class that is defined in a different namespace we need to import it in our code file. And that's why we use the using statement. So by default Visual Studio have using statement, system is a namespace of a Dot Net Framework and that's where we have all these basic utility classes and primitive types, system.collections.generic is used to work with lists collections and so on. 
+
+"system." link is used to work with data. Now, we're going to create a very simple application and By default we have a class called program so every console application you create with Visual Studio has a class called program Inside program by default.
+
+We have a method or a function called Main and that's the entry point to the application.
+
+So when you run your application CLR executes the code inside main method and that's where everything kicks off, this method is declared as static.
+
+And that's something I'm going to cover later in the next section. Methods have input and output. So what goes inside parentheses the input to the method which we call parameter or argument. Know that parameters are optional.
+
+But in this case the default template the main method has a parameter called args which is of type String Array.
+
+We're going to learn about String Array in our future sessions.
+
+What do you see before the method name is the return type or the output of the method void in C Sharp means nothing. That means this method does not return any value. It just contains some code that's it.
+
+Also note that C sharp is a case sensitive language so this main has to be with capital M otherwise CLR is not going to find this method as the entry point of the application.
+
+Okay and one last thing is note this curly braces so we're half a block of code.
+
+We need to surround it with curly braces so that is applicable for methods for classes and for name
+
+spaces.
+
+Right now most write a very simple program.
+
+So let's go here.
+
+We have a class called Konsole which is used to read data from console or write data to it.
+
+It has a bunch of methods we can access this Smethurst using the dot notation.
+
+And here you see various members of this class.
+
+Methods are indicated by a purple cube.
+
+So beep is used to play a beep sound.
+
+All clear is used to clear the console.
+
+We get to use the right line method.
+
+This method can optionally take a parameter.
+
+So I'm going to pass a string here.
+
+Hello world.
+
+Just that I know that statements in C# terminate with a semicolon as you see here.
+
+Now take a look at using system on the top.
+
+Do you see that it's highlighted where as the others are greyed out.
+
+The reason for that is in this file we are using a class called Konsole which is defined in the system
+
+namespace.
+
+That's why that using statement is active.
+
+We are not using any classes defined in other names spaces and that's why they're great out so we can
+
+get rid of them to make our code cleaner.
+
+We can delete each one by control X like that.
+
+Or if you're using resharpen we can't get rid of all of them by pressing alt and enter here and selecting
+
+the first option which is remove unused directives in file so it's faster.
+
+Now let's run the application with control and F5.
+
+So this we know that you see here this black window is what we call console and that's why this kind
+
+of project is called console application.
+
+OK that's it for this lecture.
+
+From this point in every lecture we are going to learn something new about C-Sharp and we can write
+
+more interesting more complex programs.
+
+I hope you enjoy this lecture and thank you for watching

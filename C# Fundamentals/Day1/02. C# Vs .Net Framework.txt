@@ -1,0 +1,23 @@
+OK what is dot net framework and how is it different from C-Sharp some developers who are absolutely
+
+new to C-Sharp don't know the difference.
+
+So in this session I'm going to talk a little bit about C-Sharp and dotnet framework 
+
+C# is a programming language.
+
+Dot Net is a framework for building applications under Windows. Dotnet framework is not limited to C-sharp.
+
+There are different languages that can target dotnet framework and build applications using that framework
+
+.
+
+Examples are F sharp or VB dot net.
+
+Ok now what exactly is Dot Net Framework? Dot Net framework consists of two components.
+
+One is called CLR or Common Language Runtime and the other is a class library for building applications
+
+in the next lecture.
+
+We'll talk about CLR in more detail

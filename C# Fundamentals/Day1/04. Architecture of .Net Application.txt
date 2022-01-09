@@ -1,0 +1,32 @@
+OK now let's learn about the architecture of talking about applications at a very high level.
+
+When you build an application with C-Sharp your application consists of building blocks called classes.
+
+These classes collaborate with each other at runtime. And as a result the application provides some functionality.
+
+Now what is a class? A class is a container that has some data which is also called attributes and functions, which is also called methods. Functions or Methods have behavior. They execute code. They do things for us.
+ 
+Data represents the state of the application.
+
+Let me use an example.
+
+Think of a car a car has some attributes like its make its model its color. These are the attributes of a car. The car also has some functions.
+
+We can start it or we can move it so you can think of a car as a class in a real world application.
+
+We have tens, hundreds, or even thousands of classes. Each class responsible for a piece of functionality.
+
+An example of that is, classes that are responsible for getting the data from the user, process the data and display something to the user.
+
+Now as the number of classes in an application grows we need a way to organize these classes. Thats where we use a namespace.
+
+So a namespace is a container for related classes.
+
+For example in dotnet framework we have name spaces each containing tens of related classes. We have name spaces for working with data like databases. We also have name spaces for working with graphics and images. We have name spaces for working with security now in real world application as these name spaces grow.
+
+We need a different way of partitioning an application and thats where we use an assembly, and assembly is a container for related name spaces. Physically its a file on the disk which can either be an executable or a DLL which stands for dynamically linked library.
+
+So when you compile an application the compiler builds one or more assemblies depending on how you partition your code in the next picture.
+
+We can write a very simple C# application and you're going to see all these concepts and action
+

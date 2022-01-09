@@ -1,0 +1,27 @@
+ OK so this is the very first section of this course in this section I'm going to start by teaching you
+
+the very basics of C-sharp.
+
+One of the questions that a lot of beginners ask is What is the difference between C-Sharp and dot net
+
+.
+
+So that's the first thing I'm going to answer here.
+
+Next I'm going to talk about CLR or Common Language Runtime which is the runtime environment or
+
+the applications.
+
+Next I'm going to talk about the architecture of Dot Net Applications and as part of this.
+
+I'm going to introduce you to concepts such as classes name spaces and assemblies.
+
+And finally I will show you all these concepts in action.
+
+I'm going to introduce you to the very basics of Visual Studio and write a very simple C Sharp application
+
+so you can see classes name spaces and methods in action.
+
+I hope you enjoyed this section.
+
+And let's get started.
